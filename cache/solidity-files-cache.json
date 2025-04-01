@@ -1,0 +1,77 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Blockchain\\Adv blockchain\\Voting\\contracts\\VotingOptimized.sol": {
+      "lastModificationDate": 1742900526582,
+      "contentHash": "097291b933c86accd61389e38d37e313",
+      "sourceName": "contracts/VotingOptimized.sol",
+      "solcConfig": {
+        "version": "0.8.28",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.20"
+      ],
+      "artifacts": [
+        "VotingOptimized"
+      ]
+    },
+    "C:\\Blockchain\\Adv blockchain\\Voting\\contracts\\VotingUnoptimized.sol": {
+      "lastModificationDate": 1742900536866,
+      "contentHash": "cba223b6eaa9247f80cfb88e124be230",
+      "sourceName": "contracts/VotingUnoptimized.sol",
+      "solcConfig": {
+        "version": "0.8.28",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.20"
+      ],
+      "artifacts": [
+        "VotingUnoptimized"
+      ]
+    }
+  }
+}
